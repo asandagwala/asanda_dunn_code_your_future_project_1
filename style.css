@@ -1,0 +1,45 @@
+body {
+  background-color: #e6f2ff;
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+#main-heading {
+  text-align: center;
+  color: darkblue;
+  margin-top: 20px;
+}
+
+.description {
+  background-color: white;
+  padding: 15px;
+  margin: 20px;
+  border: 1px solid #ccc;
+  line-height: 1.6;
+}
+
+div {
+  margin: 20px;
+  padding: 10px;
+}
+
+span {
+  color: darkred;
+  font-weight: bold;
+}
+
+.center-image {
+  display: block;
+  margin: 20px auto;
+  width: 60%;
+}
+
+img {
+  width: 100%;
+  max-width: 600px;
+  border: 2px solid #333;
+}
+
+ul, ol {
+  margin-left: 40px;
+}
